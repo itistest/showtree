@@ -1,0 +1,32 @@
+run
+exit
+run
+clean
+cls
+cln
+run
+sbt "inspect tree compile:compile"
+sbt inspect tree compile:compile
+inspect tree compile:compile
+run
+exit
+run
+test
+exit
+test
+exit
+test
+exit
+test
+exit
+test
+exit
+run
+test
+exit
+test
+exit
+sbt
+run
+test
+exit
